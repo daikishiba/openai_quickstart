@@ -7,7 +7,7 @@ import os
 client = OpenAI()
 
 # 録音設定
-duration = 5  # 5秒間録音
+duration = 10  # 10秒間録音
 sample_rate = 44100  # サンプリングレート
 
 print("Recording...")
